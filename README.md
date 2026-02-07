@@ -22,16 +22,6 @@
 
 C# .NET | Python | JavaScript | HTML | CSS | SQL Server | Git & GitHub
 
----
-
----
-
-## 📊 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedazx&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedazx&layout=compact)
-
 
 ---
 
